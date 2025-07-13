@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrprzybyla&label=Profile%20views&color=0e75b6&style=flat" alt="piotrprzybyla" /> </p>
 
-- 🔭 I’m currently working at **Nokia**
+- 🔭 I’m currently working at **Pirxey**
 
 - 📫 How to reach me **piotr.przybyla.cv@gmail.com**
 
